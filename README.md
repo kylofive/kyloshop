@@ -1,2 +1,0 @@
-# kyloshop
-Shopping web
